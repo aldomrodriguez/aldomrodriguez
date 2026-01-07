@@ -8,7 +8,7 @@
 
 📷 Soy fotógrafo en un municipio, cubriendo eventos y gestiones. Tengo un gran interés en la **programación**, lo que me llevó a comenzar a formarme en esta área💻.
 
-Soy esposo y padre de un hijo de 4 años. En mis tiempos libres disfruto tocar la **guitarra** o el **piano** y siempre estoy aprendiendo cosas nuevas.
+Soy esposo y padre de un hijo de 5 años. En mis tiempos libres disfruto tocar la **guitarra** o el **piano** y siempre estoy aprendiendo cosas nuevas.
 
 Este perfil de GitHub es el lugar donde comparto mis avances, proyectos y aprendizaje.
 
