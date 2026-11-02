@@ -1,6 +1,6 @@
 # Hola, soy Aldo 👋
 
-Desarrollador full-stack en Lobos, Buenos Aires. Trabajo en la Subsecretaría de Modernización del Municipio de Lobos, haciendo sitios y sistemas para la comunidad, y en paralelo desarrollo mis propios productos.
+Desarrollador Full Stack. Trabajo para la Subsecretaría de Modernización del Municipio de Lobos, donde desarrollo micrositios, aplicaciones para la comunidad y soluciones para el día a día.
 
 Mis proyectos, con capturas y detalles, están en **[aldorodriguez.com.ar](https://aldorodriguez.com.ar)**.
 
